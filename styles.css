@@ -382,7 +382,7 @@ p {}
 }
 
 .content-section .content .button a {
-    background-color: #3d3d3d;
+    background-color: green;
     padding: 12px 40px;
     text-decoration: none;
     color: #fff;
@@ -508,6 +508,6 @@ p {}
 }
 
 .skills .img {
-    width: 100px;
-    margin: 10px;
+    width: 90px;
+    margin: 20px;
 }
